@@ -15,8 +15,8 @@
  - Database:MySQL
 
 ### Languages and Tools
--Java,C,C++,Python
--Visual Studio code,Android Studio,Sublime text,MySQL Workbench.
+ - Java,C,C++,Python
+ - Visual Studio code,Android Studio,Sublime text,MySQL Workbench.
 
 
 Thanks for visiting my profile! Let's connect and build together.
