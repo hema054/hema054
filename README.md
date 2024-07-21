@@ -10,6 +10,6 @@
 - 📫 Reach me: hemaharshinithangavel2004@gmail.com
 
 ###  Technologies I work with
- Frontend: HTML,CSS,JavaScript,React
- Backend: Java,Python(Machine learning)
- Database:MySQL
+ - Frontend: HTML,CSS,JavaScript,React
+ - Backend: Java,Python(Machine learning)
+ - Database:MySQL
