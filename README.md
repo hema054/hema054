@@ -8,6 +8,7 @@
 - 👯 I’m looking to contribute my skills and to get expertise java , machine learning, deep learning, and app development projects.
 - ⚡Dedicated to making a meaningful impact in projects aligned with my interests. 
 - 📫 Reach me: hemaharshinithangavel2004@gmail.com
+-             linkedin.com/in/hemaharshini-t-353931243/
 
 ###  Technologies I work with
  - Frontend: HTML,CSS,JavaScript,React
