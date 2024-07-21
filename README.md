@@ -7,7 +7,7 @@
 - 🌱I love exploring new technologies.The excitement of discovering something new is what fuels my love for learning.
 - 👯 I’m looking to contribute my skills and to get expertise java , machine learning, deep learning, and app development projects.
 - ⚡Dedicated to making a meaningful impact in projects aligned with my interests. 
-- 📫 Reach me:
+- 📫 Reach me by:
 -             hemaharshinithangavel2004@gmail.com
 -             linkedin.com/in/hemaharshini-t-353931243/
 
