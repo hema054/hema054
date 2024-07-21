@@ -11,5 +11,14 @@
 
 ###  Technologies I work with
  - Frontend: HTML,CSS,JavaScript,React
- - Backend: Java,Python(Machine learning)
+ - Backend: Python(Machine learning)
  - Database:MySQL
+
+### Languages and Tools
+-Java,C,C++,Python
+-Visual Studio code,Android Studio,Sublime text,MySQL Workbench.
+
+
+Thanks for visiting my profile! Let's connect and build together.
+
+
